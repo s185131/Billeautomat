@@ -20,7 +20,7 @@ public class Billetautomat {
 	public Billetautomat() {
 		billetpris = 10;
 		balance = 0;
-
+		antalBilletterSolgt = 0;
 	}
 
 	/**
