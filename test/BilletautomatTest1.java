@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*;   //redigerings test Emil
 
 class BilletautomatTest {
     //Nem adgang til password hvis det ændres i kildekoden til billetautomat skal vi kun ændre variablen et sted i vores tests.
